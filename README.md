@@ -27,13 +27,13 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
    - key pair: create new key pair(ex.project_access_key).
    - network settings: create new security group (ex.Demoproject)
    - security group permistions :
-   - 
-   - ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/aws%20security%20group.jpg)
-   - 
+     
+     ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/aws%20security%20group.jpg)
+    
    - storage : 25GB
-   - 
-   - ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/Aws.jpg)
-   - 
+    
+     ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/Aws.jpg)
+    
    - launch instance.
 
 2. **Connect to the VM**:
