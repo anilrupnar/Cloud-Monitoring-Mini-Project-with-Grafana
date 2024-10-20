@@ -156,3 +156,7 @@ Select the appropriate scopes accourding to Project need like this :
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/10.png)
 
+### Step 3: Click Gitgub datascource plugin & Github Person access token 
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/11.png)
+
