@@ -42,7 +42,7 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
    - Update Ubuntu Machince :
       ```bash
             sudo apt-get update
-      ```bash
+
 
 3. **Install Grafana**:
    ```bash
