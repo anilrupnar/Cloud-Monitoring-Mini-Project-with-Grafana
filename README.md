@@ -21,8 +21,20 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
 ## Setup Instructions
 
 1. **Create a Virtual Machine**:
-   - Launch a T2 medium instance on your preferred cloud provider.
-   - Ensure that port 3000 is open in your security group.
+   - Instance Name : Sevrer
+   - Amazon server Image: Ubuntu server 24.04 LTS (HVM),SSD Volume Type (Free tier.)
+   - Instance Type : t2.micro
+   - key pair: create new key pair(ex.project_access_key).
+   - network settings: create new security group (ex.Demoproject)
+   - security group permistions :
+     
+     ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/aws%20security%20group.jpg)
+    
+   - storage : 25GB
+    
+     ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/Aws.jpg)
+    
+   - launch instance.
 
 2. **Connect to the VM**:
    - Use SSH to connect to your instance.
