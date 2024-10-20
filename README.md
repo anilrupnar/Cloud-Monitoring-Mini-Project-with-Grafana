@@ -166,4 +166,25 @@ After installing the GitHub data source plugin, select it from the list. Then, c
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/11.png)
 
+#### Step 4: Click Save & Test
 
+Once the GitHub data source is configured with the access token, click **Save & Test** to verify the connection.
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/12.png)
+
+
+### 6. Create New grafana Dashbord 
+
+#### Step 1: Go to google and serach 
+```bash
+
+[gitlab data source grafana dashboard]([URL](https://grafana.com/grafana/dashboards/3749-gitlab/))
+
+
+```
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/13.png)
+
+#### Step 1: Copy Import the dashboard template code 
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/13.png)
