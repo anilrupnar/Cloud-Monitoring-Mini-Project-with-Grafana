@@ -6,8 +6,7 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
 
 ## Architecture diagram
 
-   
-
+ ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/architecture%20diagram.png)
 
 ## Features
 
