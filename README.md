@@ -23,6 +23,7 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
 1. **Create a Virtual Machine**:
    - Launch a T2 medium instance on your preferred cloud provider.
    - Ensure that port 3000 is open in your security group.
+   ![Logo](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/Aws.jpg)
 
 2. **Connect to the VM**:
    - Use SSH to connect to your instance.
