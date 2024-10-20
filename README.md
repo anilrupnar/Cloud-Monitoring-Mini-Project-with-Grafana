@@ -99,8 +99,12 @@ http://localhost:3000
 Username: admin
 Password: admin
 
-- ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/5.jpg)
+ ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/5.png)
 
   
 #### Change New Password 
-- ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/6.jpg)
+
+ ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/6.png)
+
+
+ 
