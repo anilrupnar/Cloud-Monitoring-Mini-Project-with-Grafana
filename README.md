@@ -216,3 +216,23 @@ Give the Grafana dashboard a name and select the **GitHub data source** option t
 Change the organization (your GitHub username), choose the repository you want to analyze, and set the branch to **main**. See the image below for guidance.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/19.png)
+
+
+
+### 7. Final Output 
+
+After setting up the GitHub or GitLab data source and configuring the dashboard, you should see the visualized metrics as shown below.
+
+![Final Output Example 1](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/19.png)
+
+![Final Output Example 2](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/20.png)
+
+---
+
+Thank you for reading my README file!
+
+Feel free to connect with me:
+
+- **LinkedIn**: [Anil Rupnar](https://www.linkedin.com/in/anil-rupnar/)
+- **Email**: anilrupnar2003@gmail.com
+
