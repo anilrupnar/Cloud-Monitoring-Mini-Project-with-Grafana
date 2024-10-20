@@ -178,7 +178,7 @@ Once the GitHub data source is configured with the access token, click **Save & 
 #### Step 1: Go to google and serach 
 ```bash
 
-[gitlab data source grafana dashboard](https://grafana.com/grafana/dashboards/3749-gitlab/)
+[GitLab Data Source Grafana Dashboard](https://grafana.com/grafana/dashboards/3749-gitlab/)
 
 ```
 
