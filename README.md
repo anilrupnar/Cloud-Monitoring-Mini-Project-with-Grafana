@@ -105,9 +105,7 @@ http://localhost:3000
 
  ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/6.png)
 
-### 4.Genrate Github Personal Token
-
-## Generate a GitHub Personal Access Token (PAT) Steps :
+### 4.Generate a GitHub Personal Access Token (PAT) Steps
 
 Follow these steps to generate a GitHub Personal Access Token (PAT) that you can use for authenticating with GitHub APIs, pushing/pulling code, and managing repositories:
 
@@ -146,5 +144,6 @@ Select the appropriate scopes accourding to Project need like this :
 
 ### Step 8: Save the Token
 - **Store the token** securely in a password manager or any secure location. You **cannot** view this token again once you leave the page.
+
 
 
