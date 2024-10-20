@@ -173,35 +173,46 @@ Once the GitHub data source is configured with the access token, click **Save & 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/12.png)
 
 
-### 6. Create New grafana Dashbord 
+### 6. Create a New Grafana Dashboard 
 
-#### Step 1: Go to google and serach 
-```bash
+#### Step 1: Search for a GitLab Data Source Dashboard Template
 
-   gitlab data source grafana dashboard
+Go to Google and search for:
 
-```
+   `gitlab data source grafana dashboard`
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/13.png)
 
-#### Step 2: Copy Import the dashboard template code 
+#### Step 2: Copy the Dashboard Template Code 
 
-You can use the pre-built Grafana dashboard for GitLab data source to visualize GitLab metrics. Check out the dashboard here:
+You can use a pre-built Grafana dashboard for the GitLab data source to visualize GitLab metrics. Check out the dashboard here:
 
-[GitLab Data Source Grafana Dashboard link ](https://grafana.com/grafana/dashboards/3749-gitlab/)
-
+[GitLab Data Source Grafana Dashboard link](https://grafana.com/grafana/dashboards/3749-gitlab/)
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/21.png)
 
-#### Step 2: Import the dashboard template in grafana 
+#### Step 3: Import the Dashboard Template into Grafana 
+
+In Grafana, go to the **Import** section and paste the dashboard template code.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/15.png)
 
-#### Step 3: insert the copyed  dashboard template code 
+#### Step 4: Insert the Copied Dashboard Template Code 
+
+Paste the copied dashboard template code and click **Load**.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/16.png)
 
-#### Step 4: Give the grafana Dashbord name & add grafana github datascource option 
+#### Step 5: Name the Grafana Dashboard and Add GitHub Data Source 
+
+Give the Grafana dashboard a name and select the **GitHub data source** option that you previously configured.
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/18.png)
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/17.png)
 
+#### Step 6: Customize the Organization and Repository
+
+Change the organization (your GitHub username), choose the repository you want to analyze, and set the branch to **main**. See the image below for guidance.
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/19.png)
