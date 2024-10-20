@@ -178,8 +178,7 @@ Once the GitHub data source is configured with the access token, click **Save & 
 #### Step 1: Go to google and serach 
 ```bash
 
-[gitlab data source grafana dashboard]([URL](https://grafana.com/grafana/dashboards/3749-gitlab/))
-
+[gitlab data source grafana dashboard](https://grafana.com/grafana/dashboards/3749-gitlab/)
 
 ```
 
@@ -187,4 +186,4 @@ Once the GitHub data source is configured with the access token, click **Save & 
 
 #### Step 1: Copy Import the dashboard template code 
 
-![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/13.png)
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/22.png)
