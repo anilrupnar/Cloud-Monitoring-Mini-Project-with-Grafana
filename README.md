@@ -146,4 +146,9 @@ Select the appropriate scopes accourding to Project need like this :
 - **Store the token** securely in a password manager or any secure location. You **cannot** view this token again once you leave the page.
 
 
+### 5. Install GitHub Data Source in Grafana
+
+### Step 1: Go to Connections and Click on Data Sources
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/7.png)
 
