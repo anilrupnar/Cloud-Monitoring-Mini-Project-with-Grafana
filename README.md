@@ -148,15 +148,22 @@ Select the appropriate scopes accourding to Project need like this :
 
 ### 5. Install GitHub Data Source in Grafana
 
-### Step 1: Go to Connections and Click on Data Sources
+#### Step 1: Navigate to Connections and Select Data Sources
+
+Go to the **Connections** section in Grafana and click on **Data Sources**.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/7.png)
 
-### Step 2: Install Gitgub Datascource Plugin 
+#### Step 2: Install GitHub Data Source Plugin
+
+Search for the GitHub data source plugin in the plugin list and install it.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/10.png)
 
-### Step 3: Click Gitgub datascource plugin & Github Person access token 
+#### Step 3: Configure the GitHub Data Source Plugin with a Personal Access Token
+
+After installing the GitHub data source plugin, select it from the list. Then, configure it by providing a GitHub Personal Access Token (PAT) to allow Grafana to access GitHub repository data.
 
 ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/11.png)
+
 
