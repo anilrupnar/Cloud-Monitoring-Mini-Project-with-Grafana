@@ -19,11 +19,12 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
      - [Step 4: Update Repository and Install Grafana](#step-4-update-repository-and-install-grafana)
      - [Step 5: Start and Enable Grafana Service](#step-5-start-and-enable-grafana-service)
      - [Step 6: Access Grafana](#step-6-access-grafana)
-5. [Generate a GitHub Personal Access Token (PAT)](#4-generate-a-github-personal-access-token-pat)
-6. [Install GitHub Data Source in Grafana](#5-install-github-data-source-in-grafana)
-7. [6. Create a New Grafana Dashboard](#6-create-a-new-grafana-dashboard)
-5. [Final Output](#7-final-output)
-6. [Contact Information](#contact-information)
+5. [Generate a GitHub Personal Access Token (PAT)](#generate-a-github-personal-access-token-pat)
+6. [Install GitHub Data Source in Grafana](#install-github-data-source-in-grafana)
+7. [Create a New Grafana Dashboard](#create-a-new-grafana-dashboard)
+8. [Final Output](#final-output)
+9. [Contact Information](#contact-information)
+
 
 ---
 
