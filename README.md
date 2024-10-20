@@ -51,3 +51,22 @@ Ensure that your system has the required dependencies by running the following c
 
 ```bash
 sudo apt-get install -y software-properties-common
+
+### Step 2: Add Grafana APT Repository
+To enable the official Grafana repository, use the following command:
+
+```bash
+sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
+
+### Step 3: Install Grafana GPG Key
+Next, download and add the Grafana GPG key to authenticate the packages:
+
+```bash
+sudo wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add -
+
+### Step 4: Update Repository and Install Grafana
+After adding the repository, update your package list and install Grafana:
+
+```bash
+sudo apt-get update
+sudo apt-get install grafana
