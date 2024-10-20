@@ -61,6 +61,7 @@ To enable the official Grafana repository, use the following command:
 sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
 
 ```
+
 #### Step 3: Install Grafana GPG Key
 
 Next, download and add the Grafana GPG key to authenticate the packages:
@@ -76,3 +77,30 @@ After adding the repository, update your package list and install Grafana:
 sudo apt-get update
 sudo apt-get install grafana
 ```
+
+#### Step 5: Start and Enable Grafana Service
+
+Start the Grafana server and enable it to run at startup:
+
+```bash
+sudo systemctl start grafana-server
+sudo systemctl enable grafana-server
+```
+Step 6: Access Grafana
+Once Grafana is running, you can access the Grafana web interface by navigating to:
+
+```bash
+
+http://localhost:3000
+(ex.http://52.70.170.54:3000/)
+```
+#### The default login credentials are:
+
+Username: admin
+Password: admin
+
+- ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/5.jpg)
+
+  
+#### Change New Password 
+- ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/6.jpg)
