@@ -4,6 +4,11 @@
 
 This project demonstrates how to monitor GitHub and GitLab repositories using Grafana. It provides insights into repository activity, including commits, pull requests, and issues, helping teams better manage their projects.
 
+## Architecture diagram
+
+   
+
+
 ## Features
 
 - Monitor GitHub and GitLab repositories.
