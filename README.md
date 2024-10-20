@@ -178,7 +178,7 @@ Once the GitHub data source is configured with the access token, click **Save & 
 #### Step 1: Go to google and serach 
 ```bash
 
-[GitLab Data Source Grafana Dashboard](https://grafana.com/grafana/dashboards/3749-gitlab/)
+
 
 ```
 
@@ -186,4 +186,9 @@ Once the GitHub data source is configured with the access token, click **Save & 
 
 #### Step 1: Copy Import the dashboard template code 
 
-![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/22.png)
+You can use the pre-built Grafana dashboard for GitLab data source to visualize GitLab metrics. Check out the dashboard here:
+
+[GitLab Data Source Grafana Dashboard](https://grafana.com/grafana/dashboards/3749-gitlab/)
+
+
+![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/21.png)
