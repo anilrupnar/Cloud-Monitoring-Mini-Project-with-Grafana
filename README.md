@@ -96,8 +96,8 @@ http://localhost:3000
 ```
 #### The default login credentials are:
 
-Username: admin
-Password: admin
+- **Username: admin
+- **Password: admin
 
  ![AWS Storage](https://github.com/anil-rupnar/Cloud-Monitoring-Mini-Project-with-Grafana/blob/main/images/5.png)
 
