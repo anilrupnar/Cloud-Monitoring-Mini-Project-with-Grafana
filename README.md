@@ -4,31 +4,6 @@
 
 This project demonstrates how to monitor GitHub and GitLab repositories using Grafana. It provides insights into repository activity, including commits, pull requests, and issues, helping teams better manage their projects.
 
-# Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Setup Instructions](#setup-instructions)
-   - [1. Create a Virtual Machine](#1-create-a-virtual-machine)
-   - [2. Connect to the EC2 Instance](#2-connect-to-the-ec2-instance)
-   - [3. Install Grafana](#3-install-grafana)
-     - [Step 1: Install Dependencies](#step-1-install-dependencies)
-     - [Step 2: Add Grafana APT Repository](#step-2-add-grafana-apt-repository)
-     - [Step 3: Install Grafana GPG Key](#step-3-install-grafana-gpg-key)
-     - [Step 4: Update Repository and Install Grafana](#step-4-update-repository-and-install-grafana)
-     - [Step 5: Start and Enable Grafana Service](#step-5-start-and-enable-grafana-service)
-     - [Step 6: Access Grafana](#step-6-access-grafana)
-5. [Generate a GitHub Personal Access Token (PAT)](#generate-a-github-personal-access-token-pat)
-6. [Install GitHub Data Source in Grafana](#install-github-data-source-in-grafana)
-7. [Create a New Grafana Dashboard](#create-a-new-grafana-dashboard)
-8. [Final Output](#final-output)
-9. [Contact Information](#contact-information)
-
-
----
-
-
 ## Features
 
 - Monitor GitHub and GitLab repositories.
