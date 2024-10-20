@@ -36,8 +36,13 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
     
    - launch instance.
 
-2. **Connect to the VM**:
-   - Use SSH to connect to your instance.
+2. **Connect to the EC2 INstance **:
+   - Download MobaXterm for connect EC2 instance.
+   - put EC2 instance public IP address and add public key. (ex.project_access_key)
+   - Update Ubuntu Machince :
+      ```bash
+            sudo apt-get update
+      ```bash
 
 3. **Install Grafana**:
    ```bash
