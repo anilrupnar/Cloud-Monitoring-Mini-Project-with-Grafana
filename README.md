@@ -36,7 +36,7 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
     
    - launch instance.
 
-2. **Connect to the EC2 INstance **:
+2.**Connect to the EC2 INstance**:
    - Download MobaXterm for connect EC2 instance.
    - put EC2 instance public IP address and add public key. (ex.project_access_key)
    - Update Ubuntu Machince :
@@ -45,9 +45,18 @@ This project demonstrates how to monitor GitHub and GitLab repositories using Gr
 
 
 3. **Install Grafana**:
-   ```bash
-   sudo apt update
-   # Follow installation steps based on your OS (download, install, and start Grafana)
+
+# Grafana Installation Guide for Ubuntu
+
+## Step 1: Install Dependencies
+
+Ensure that your system has the required dependencies by running the following command:
+
+```bash
+sudo apt-get install -y software-properties-common.
+
+## Step 2: Install Dependencies
+
 
 
 
