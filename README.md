@@ -238,6 +238,6 @@ Thank you for reading my README file!
 
 Feel free to connect with me:
 
-- **LinkedIn**: [Anil Rupnar](https://www.linkedin.com/in/anil-rupnar/)
+- **LinkedIn**: [Anil Rupnar](https://www.linkedin.com/in/anilrupnar/)
 - **Email**: anilrupnar2003@gmail.com
 
